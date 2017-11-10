@@ -3,7 +3,7 @@ A custom keyboard with mood analysis capabilities
 
 ![sample](screenshots/sample.gif)
 
-###Libraries and tools included
+### Libraries and tools included
 
 - [Android support and design](https://developer.android.com/topic/libraries/support-library/index.html) (Support-v4/v7, Appcompat, Design, Vector drawable)
 - [Kotlin](https://kotlinlang.org/)
